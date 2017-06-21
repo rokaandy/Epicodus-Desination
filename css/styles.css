@@ -1,7 +1,7 @@
-#destination1, #destination2, #destination3 {
-  display: none;
+#destination1 img{
+  width: 700px;
 }
 
-#destination1 {
-  width: 200px;
+#destination2 img{
+  width: 700px;
 }
