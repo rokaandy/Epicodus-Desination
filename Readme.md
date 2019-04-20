@@ -1,4 +1,4 @@
-# Vacation
+# Vacation Destinations
 
 #### 2nd Project - Epicodus, 06.16.2017
 
